@@ -78,18 +78,18 @@
 
     <TextView
         android:id="@+id/websiteTextView"
-        android:layout_width="223dp"
-        android:layout_height="48dp"
+        android:layout_width="255dp"
+        android:layout_height="42dp"
         android:autoLink="web"
-        android:text="https://github.com/syafirulafiq"
+        android:text="https://github.com/AlifKhafifi01"
         android:textColorLink="@color/link"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.707"
+        app:layout_constraintHorizontal_bias="0.743"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.754" />
+        app:layout_constraintVertical_bias="0.746" />
 
     <ImageView
         android:id="@+id/imageView"
