@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+      <item
+          android:id="@+id/Intructions"
+          android:icon="@drawable/menu"
+          android:title="Intructions"
+          />
+
+      <item
+          android:id="@+id/Aboutme"
+          android:icon="@drawable/menu"
+          android:title="About me"
+          />
+
+      <!--<item
+          android:title="Instruction"
+            android:id="@+id/instruction"
+            android:icon="@drawable/baseline_info_24"
+            app:showAsAction="ifRoom"/>
+      <item
+          android:title="Profile"
+          android:id="@+id/profile"
+          android:icon="@drawable/baseline_account"
+          app:showAsAction="ifRoom"/>
+       -->
+
+
+
+
+</menu>
